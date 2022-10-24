@@ -2,7 +2,7 @@
 
 Creating a Tetris Game with a simple Java program using the OOP method.
 
-Programming Used:
+PROGRAMMING USED:
 - Apache Netbeans 13 IDE
 - JDK 18
 
