@@ -1,10 +1,10 @@
-# Programming Used:
+# Background:
+- For learning about OOP concepts in the Java programming language
+- For the fulfillment of project tasks while studying at CCIT FTUI
+
+# Used:
 - Apache Netbeans 13 IDE
 - JDK 18
 
-# Programming Reference:
+# Reference:
 - https://www.youtube.com/MrMProgramming
-
-# Programming Background:
-- For learning about OOP concepts in the Java programming language
-- For the fulfillment of project tasks while studying at CCIT FTUI
