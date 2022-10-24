@@ -8,3 +8,7 @@ Used to create and run this program:
 
 Programming reference:
 - https://www.youtube.com/MrMProgramming
+
+Programming background:
+- For learning about OOP concepts in the Java programming language
+- For the fulfillment of project tasks while studying at CCIT FTUI
