@@ -1,7 +1,3 @@
-# Background:
-- Learn about OOP concepts in the Java programming language
-- For the fulfillment of project tasks while studying at CCIT FTUI
-
 # Tetris Game
 
 
