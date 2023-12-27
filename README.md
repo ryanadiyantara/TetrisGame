@@ -3,7 +3,7 @@
 - For the fulfillment of project tasks while studying at CCIT FTUI
 
 # Tetris Game
--
+
 
 ## Description
 In order to fulfill study project assignments at CCIT FTUI, making the Tetris game involves understanding the concept of OOP (Object-Oriented Programming) in the Java programming language.
@@ -15,5 +15,5 @@ In order to fulfill study project assignments at CCIT FTUI, making the Tetris ga
 ## Installation
 - 
 
-# Reference:
+## Reference:
 - https://www.youtube.com/MrMProgramming
