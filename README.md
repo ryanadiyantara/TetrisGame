@@ -2,21 +2,18 @@
 - Learn about OOP concepts in the Java programming language
 - For the fulfillment of project tasks while studying at CCIT FTUI
 
-# Used:
+# Tetris Game
+-
+
+## Description
+In order to fulfill study project assignments at CCIT FTUI, making the Tetris game involves understanding the concept of OOP (Object-Oriented Programming) in the Java programming language.
+
+## System Requirements
 - Apache Netbeans 13 IDE
 - JDK 18
 
+## Installation
+- 
+
 # Reference:
 - https://www.youtube.com/MrMProgramming
-
-# Nama Proyek
-[Deskripsi singkat proyek Anda di sini]
-
-## Description
-[Deskripsi proyek lebih rinci, termasuk tujuan utama dan fitur utama]
-
-## System Requirements
-[Listakan persyaratan perangkat lunak atau konfigurasi sistem yang dibutuhkan untuk menjalankan proyek ini]
-
-## Installation
-[Panduan instalasi langkah demi langkah, termasuk dependensi yang harus diinstal]
