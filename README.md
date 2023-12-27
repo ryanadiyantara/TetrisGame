@@ -17,7 +17,7 @@ Fulfillment of CCIT FTUI Project Tasks:
 - JDK 18
 
 ## Installation
-- -
+- 
 
 ## Reference:
 - https://www.youtube.com/MrMProgramming
